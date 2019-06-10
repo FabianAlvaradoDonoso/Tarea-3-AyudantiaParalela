@@ -1,0 +1,2 @@
+127.0.0.1 localhost slot=2 max_slots=4
+192.168.0.15 fabianpc slot=4 max_slots=4
